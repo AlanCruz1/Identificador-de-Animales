@@ -8,3 +8,4 @@ torchvision.transforms
 sklearn.metrics
 os
 torch.nn.functional
+PIL
